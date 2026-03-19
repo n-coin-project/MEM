@@ -64,6 +64,9 @@ This is the future of human–AI interaction.
 
 The complete English and Japanese whitepapers are available in the `/docs` directory.
 
+- [English Whitepaper (PDF)](./docs/Meaning-Centric-Memory-English.pdf)
+- [Japanese Whitepaper (PDF)](./docs/Meaning-Centric-Memory-Japanese.pdf)
+
 ---
 
 ## ⚖️ License
